@@ -1,7 +1,7 @@
-<h1 align="center">Hola 🙂, soy Guillermo Nanco</h1>
-<h3 align="center">Soy Desarrollador móvil y me apasionan los retos.</h3>
+<h1 align="left">Hola 🙂, soy Guillermo Nanco</h1>
+<h3 align="left">Soy Desarrollador móvil y me apasionan los retos.</h3>
 
-- 🌱 Actualmente estoy aorendiendo **Python, Django, Vue**
+- 🌱 Actualmente estoy aprendiendo **Python, Django, Vue**
 
 - 📫 me puedes contactar en **ingnanco@gmail.com**
 
